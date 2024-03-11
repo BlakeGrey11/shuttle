@@ -12,7 +12,7 @@ const routes = [
 ];
 
 const navItems = [
-	["/", "Home"],
+	["/", "Blake"],
 	["/math", "Games"],
 	["/physics", "Apps"],
 	["/settings", "Settings"]
